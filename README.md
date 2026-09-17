@@ -2,8 +2,6 @@
 
 > **War Thunder-inspired dogfighting in the browser.** Colyseus-authoritative, Three.js A-tier visuals, low-latency dogfights for 1–8 players. Fly a PBR F-16-class jet over a hand-crafted 5 km world, chase with bloom-lit afterburners, and trade cannon bursts.
 
-![Sky Duel Banner](https://dummyimage.com/1200x400/0d1b3a/ffffff&text=Sky+Duel+—+A-Tier+Browser+Dogfight)
-
 [![Node 20+](https://img.shields.io/badge/node-%3E%3D20-339933)]()
 [![Three r160](https://img.shields.io/badge/three-0.160-049ef4)]()
 [![Colyseus 0.15](https://img.shields.io/badge/colyseus-0.15-ff6a00)]()
